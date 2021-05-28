@@ -27,5 +27,3 @@ weatherForm.addEventListener("submit", (e) => {
     }
   );
 });
-
-console.log("app.js file successfuly loaded");
